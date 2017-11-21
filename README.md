@@ -1,5 +1,5 @@
 # Finite dimension for glycan analysis
-Datasets for the paper *"Finite Dimension: A Mathematical Tool to Analise Glycans"* J.M. Alonso, A. Arroyuelo, P.G. Garay, O.A. Martin, and J.A. Vila. November 7, 2017.
+Datasets for the paper *"Finite Dimension: A Mathematical Tool to Analise Glycans"* J.M. Alonso, A. Arroyuelo, P.G. Garay, O.A. Martin, and J.A. Vila.
 
 ## Files, folders, and abbreviations description
 
@@ -12,4 +12,5 @@ AR: Archaea.
 **gtc.txt** contains: GTC Accession number, graph, booleans.  
 **tax.txt** contains: GTC Accession number, Domain (= EU, BA, AR).
 
-**S_diam_dims folder** contains: files for diameters (S*x*dia.txt) and finite dimension (S*x*dim.txt) for each S*x*.
+**S_graphs folder** contains: files (S*x*.txt) for the graphs for each S*x*.  
+**S_dia_dims folder** contains: files for diameters (S*x*dia.txt) and finite dimension (S*x*dim.txt) for each S*x*.
