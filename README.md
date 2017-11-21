@@ -12,6 +12,4 @@ AR: Archaea.
 **gtc.txt** contains: GTC Accession number, graph, booleans.  
 **tax.txt** contains: GTC Accession number, Domain (= EU, BA, AR).
 
-**S_graphs**: compresed file with the graphs.
-
 **S_diam_dims folder** contains: files for diameters (S*x*dia.txt) and finite dimension (S*x*dim.txt) for each S*x*.
